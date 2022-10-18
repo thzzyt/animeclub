@@ -1,10 +1,109 @@
-[{
-"name":"Attack On Titan",
-"poster":"https://image.winudf.com/v2/image1/Y29tLmF0dGFjay5vbnRpdGFuLndhbGxwYXBlcl9zY3JlZW5fMF8xNjIwNjYzMzM0XzA3OA/screen-0.jpg?fakeurl=1&type=.webp",
-"logo":"https://www.pngmart.com/files/13/Attack-On-Titan-Word-Logo-Transparent-PNG.png"
-},
-{
-"name":"Kimetsu No Yaba",
-"poster":"https://demonslayer-anime.com/risshihen/assets/img/top/img_main_sp.jpg",
-"logo":"https://www.citypng.com/public/uploads/small/11662227810nrtaxl1ul1qm67infl5qhsk5ownw3rdsz5b2e2y9w3ev9pdt3txgpxtgwgbulamsvt7mvtcg04ckbtzbr52mrfmh5yn36awqgc7b.png"
-}]
+[
+    {
+      "original_name": "進撃の巨人",
+      "name": "Shingeki No Kyojin",
+      "alternative_name": "Attack on Titan",
+      "date": "2013",
+      "poster": "https://www.themoviedb.org/t/p/original/2vW1uxVJ4G4c4B9nY8dlgKgr0JY.jpg",
+      "poster2": "https://static.zerochan.net/Attack.on.Titan.full.2061210.jpg",
+      "sinopse": "Titãs estão quase exterminando a raça humana. Porém alguns estão dispostos a formar um exército de ataque aos seres assassinos. O jovem Eren, após ver sua mãe ser devorada por um titã, decide que não deixará nenhum deles vivo e buscará sua vingança completa.",
+      "fundo": "https://www.themoviedb.org/t/p/original/3zt7xPU8pn5wpc17OScVDrGgV5X.jpg",
+      "fundo2": "https://www.themoviedb.org/t/p/original/k6MMhtCqA7yxVWAth4pQ7gOkUA4.jpg",
+      "logo": "https://www.themoviedb.org/t/p/original/tB5ucGkYJ5uPLlUiyMsEaazly2E.png",
+      "logo2": "https://www.themoviedb.org/t/p/original/qSntvVN1vTFZJQRcUzzAPcb0KPO.png",
+      "list": [
+        {
+          "id": "278",
+          "id2": "3204",
+          "name": "Shingeki no Kyojin",
+          "name2": "Shingeki no Kyojin - Dublado",
+          "order_name": "Temporada 1",
+          "poster": "https://www.themoviedb.org/t/p/original/2vW1uxVJ4G4c4B9nY8dlgKgr0JY.jpg",
+          "poster2": "https://www.themoviedb.org/t/p/original/i0Q217st3eNMnv8Xk6y0LwCKAHq.jpg",
+          "date": "2013",
+          "epstotal": "25 Episódios"
+        },
+        {
+          "id": "279",
+          "id2": "3205",
+          "name": "Shingeki no Kyojin Season 2",
+          "name2": "Shingeki no Kyojin Season 2 - Dublado",
+          "order_name": "Temporada 2",
+          "poster": "https://www.themoviedb.org/t/p/original/aLq3wEuEgzyFBCQQHfzvDSeTzKj.jpg",
+          "poster2": "https://www.themoviedb.org/t/p/original/kvseBZ16WYiCC8kCjrlGDwoLSqb.jpg",
+          "date": "2017",
+          "epstotal": "12 Episódios"
+        },
+        {
+          "id": "378",
+          "id2": "3207",
+          "name": "Shingeki no Kyojin Season 3",
+          "name2": "Shingeki no Kyojin Season 3 - Dublado",
+          "order_name": "Temporada 3",
+          "poster": "https://www.themoviedb.org/t/p/original/5bAOlYRsrW4gn39Naf0aXw51qhU.jpg",
+          "poster2": "https://www.themoviedb.org/t/p/original/5bAOlYRsrW4gn39Naf0aXw51qhU.jpg",
+          "date": "2018",
+          "epstotal": "12 Episódios"
+        },
+        {
+          "id": "334",
+          "id2": "2019",
+          "name": "Shingeki no Kyojin Season 3 Part 2",
+          "name2": "Shingeki no Kyojin Season 3 Part 2 - Dublado",
+          "order_name": "Temporada 3 - Parte2",
+          "poster": "https://www.themoviedb.org/t/p/original/4SkCTm6Gt0JuqpCq8YT87wXocCd.jpg",
+          "poster2": "https://www.themoviedb.org/t/p/original/4SkCTm6Gt0JuqpCq8YT87wXocCd.jpg",
+          "date": "2019",
+          "epstotal": "10 Episódios"
+        },
+        {
+          "id": "3249",
+          "id2": "3338",
+          "name": "Shingeki no Kyojin: The Final Season",
+          "name2": "Shingeki no Kyojin: The Final Season - Dublado",
+          "order_name": "Temporada Final",
+          "poster": "https://www.themoviedb.org/t/p/original/acjYgX28lZSrjNfa1LSDyZ7UxTT.jpg",
+          "poster2": "https://www.themoviedb.org/t/p/original/fxY1qUL9b6wNYIfqUIn7uFJYEuD.jpg",
+          "date": "2020",
+          "epstotal": "16 Episódios"
+        },
+        {
+          "id": "3682",
+          "id2": "3760",
+          "name": "Shingeki no Kyojin: The Final Season Part 2",
+          "name2": "Shingeki no Kyojin: The Final Season Part 2 - Dublado",
+          "order_name": "Temporada Final parte 2",
+          "poster": "https://jovemnerd.com.br/wp-content/uploads/2021/12/imagem_2021-12-30_112626.png",
+          "poster2": "https://jovemnerd.com.br/wp-content/uploads/2021/12/imagem_2021-12-30_112626.png",
+          "date": "2022",
+          "epstotal": "12 Episódios"
+        }
+      ]
+    },
+    {
+      "original_name": "",
+      "name": "",
+      "alternative_name": "",
+      "date": "",
+      "poster": "",
+      "poster2": "",
+      "sinopse": "",
+      "fundo": "",
+      "fundo2": "",
+      "logo": "",
+      "logo2": "",
+      "list": [
+        {
+          "id": "",
+          "id2": "",
+          "name": "",
+          "name2": "",
+          "order_name": "1ª temporada",
+          "poster": "",
+          "poster2": "",
+          "date": "",
+          "epstotal": ""
+        }
+      ]
+    }
+  ]
